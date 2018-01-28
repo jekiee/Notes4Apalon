@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "278205285612",
+    "firebase_url": "https://notes4apalon.firebaseio.com",
+    "project_id": "notes4apalon",
+    "storage_bucket": "notes4apalon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278205285612:android:9fa4e74d61de5390",
+        "android_client_info": {
+          "package_name": "com.example.jek.notes4apalon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278205285612-94sbj9ujl5ihl9sth8m62mak0qv64mac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYR8Ol9a4JJ1PMsokRrSHWSm1rfwQyFUA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
